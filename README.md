@@ -21,6 +21,6 @@ _This website displays my skills, hobbies and achievements. During this project,
 
 ## License
 
-_Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code._
+MIT
 
 Copyright (c) 2023 Sharansrj567
