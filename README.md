@@ -1,8 +1,8 @@
-# _{First Portfolio Website}_
+# _First Portfolio Website_
 
-#### By _**{Sharansrj567}**_
+#### By _**Sharansrj567**_
 
-#### _{Basic Portfolio Website}_
+#### _Basic Portfolio Website_
 
 ## Technologies Used
 
