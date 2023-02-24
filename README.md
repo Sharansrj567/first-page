@@ -12,7 +12,7 @@
 
 ## Description
 
-_{This website displays my skills, hobbies and achievements. During this project, I learned the fundamentals of web development and page styling.}_
+_This website displays my skills, hobbies and achievements. During this project, I learned the fundamentals of web development and page styling._
 
 ## Setup/Installation Requirements
 
@@ -21,6 +21,6 @@ _{This website displays my skills, hobbies and achievements. During this project
 
 ## License
 
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
+_Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code._
 
 Copyright (c) 2023 Sharansrj567
